@@ -1,0 +1,8 @@
+{
+  "name": "Remix: نظام إدارة المحل والمخزون",
+  "description": "برنامج متكامل لإدارة المحل التجاري والمبيعات والكاشير، دليل هواتف GSMArena ومولّد الجرابات والإسكرينات، إدارة المخزون وتسجيل الوارد والخارج، وطباعة الفواتير وتقارير الأرباح.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
